@@ -1,0 +1,34 @@
+Kashana K. Green
+Hu
+Project 3 Persona Scenarios
+4 Nov. 2022
+
+There is an administrator that logs into the site to do weekly maintenance, when he receives an urgent help desk ticket to resolve an issue with the Shop Owner’s interface. 
+He contacts the owner and discovers features including the ‘Choose your Length’ and “Choose your HairStyle” tool are not functioning properly for users. 
+6 Consumers have voiced this issue to the shop owner. 
+Dana Is unable to set an appointment for a Retwist and Two strand Twists,
+Edward is unable to schedule Two strand Twists, 
+Kaitlyn cannot set an appointment for Knotless Braids, 
+Jakira cannot schedule an appointment for Plaits, 
+Nina cannot set an appointment for Stitch braids, 
+and Robin cannot set an appointment for a Retwist and Ponytail.
+The Administrator logs into the Shop owner’s site to view the error themselves and notices that site gives and error when you attempt to use the check box. 
+The next confirmation page will not load. 
+The admin decides to remedy the problem by looking at the style selection page code directly, as the error is most likely here.
+
+6 Consumers have attempted to Log onto HairByBri to Schedule an appointment to have their hair done.
+User Personas
+1.	Dana (Driver) (Retwist + Two Strands)
+2.	Edward(Student) (Two Strands)
+3.	Kaitlyn (Teacher) (Knotless)
+4.	Jakira (warehouse worker) (Plats)
+5.	Nina (Store Owner)(Stitch Braids)
+6.	Robin (Doctor)(Retwist + Ponytail)
+
+When they Attempt to select their desired styles, they receive an error message. 
+When they attempt to use the check box to select the style, 
+they receive an error message.
+The next confirmation page will not load for any users. 
+The next course of action for users in this situation is for them to notify the Shop Owner, Bri about the error message. 
+He manually schedules their appointments to assure they can receive the styles they inquired about.
+
